@@ -1,7 +1,7 @@
 # 📈 AdventureWorks Sales Analysis (Power BI Advanced Project)
 ***Final Level to a beginner Power BI Project - self working***
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection
+### Dashboard Link : [https://app.powerbi.com/groups/me/reports/384d017e-e935-44dc-9e7d-1626c1a36de1/ReportSection](https://app.powerbi.com/view?r=eyJrIjoiYjk4ZGY0ODEtYzA5NC00NjRjLTkxNzEtMDcwZjIzNWI4NDcxIiwidCI6IjE0YmYyODYxLWFhNDctNGQ1Yi1iOTAxLWU1ZGJjMDEyYjgxNSJ9)
 
 This repository presents an **advanced-level Power BI project** built using the AdventureWorks dataset. The focus of this project is on **advanced DAX time intelligence**, performance analysis, and profitability metrics. It leverages dynamic calculations to assess historical trends such as **Previous Year, Month, YTD, QTD, MTD, YoY, QoQ, and MoM performance**, providing a comprehensive view of business insights over time.
 
